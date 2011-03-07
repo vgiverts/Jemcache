@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jemcache</groupId>
+  <artifactId>jemcache</artifactId>
+  <version>0.1.5</version>
+  <versioning>
+    <versions>
+      <version>0.1.5</version>
+      <version>0.1.6</version>
+    </versions>
+    <lastUpdated>20110106012010</lastUpdated>
+  </versioning>
+</metadata>
