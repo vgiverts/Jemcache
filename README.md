@@ -27,24 +27,24 @@ Embed Jemcache
 Maven dependency
 ----
 
-<repositories>
-    ...
-    <repository>
-        <id>jemcache</id>
-        <url>https://github.com/vgiverts/Jemcache/raw/master/repo</url>
-    </repository>
-    ...
-</repositories>
-
-<dependencies>
-    ...
-    <dependency>
-        <groupId>org.jemcache</groupId>
-        <artifactId>jemcache</artifactId>
-        <version>0.1.6</version>
-    </dependency>
-    ...
-</dependencies>
+    <repositories>
+        ...
+        <repository>
+            <id>jemcache</id>
+            <url>https://github.com/vgiverts/Jemcache/raw/master/repo</url>
+        </repository>
+        ...
+    </repositories>
+    
+    <dependencies>
+        ...
+        <dependency>
+            <groupId>org.jemcache</groupId>
+            <artifactId>jemcache</artifactId>
+            <version>0.1.6</version>
+        </dependency>
+        ...
+    </dependencies>
 
 Credit
 ----
